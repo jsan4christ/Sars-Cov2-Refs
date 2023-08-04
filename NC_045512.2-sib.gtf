@@ -1,0 +1,14 @@
+NC_045512.2-sib.gb	SNPGenie	CDS	266	13483	.	+	0	gene_id "GU280_gp01";
+NC_045512.2-sib.gb	SNPGenie	CDS	13468	21555	.	+	0	gene_id "GU280_gp01";
+NC_045512.2-sib.gb	SNPGenie	CDS	21563	25384	.	+	0	gene_id "GU280_gp02";
+NC_045512.2-sib.gb	SNPGenie	CDS	25393	26220	.	+	0	gene_id "GU280_gp03";
+NC_045512.2-sib.gb	SNPGenie	CDS	26245	26472	.	+	0	gene_id "GU280_gp04";
+NC_045512.2-sib.gb	SNPGenie	CDS	26523	27191	.	+	0	gene_id "GU280_gp05";
+NC_045512.2-sib.gb	SNPGenie	CDS	27202	27387	.	+	0	gene_id "GU280_gp06";
+NC_045512.2-sib.gb	SNPGenie	CDS	27394	27759	.	+	0	gene_id "GU280_gp07";
+NC_045512.2-sib.gb	SNPGenie	CDS	27756	27887	.	+	0	gene_id "GU280_gp08";
+NC_045512.2-sib.gb	SNPGenie	CDS	27894	28259	.	+	0	gene_id "GU280_gp09";
+NC_045512.2-sib.gb	SNPGenie	CDS	28274	29533	.	+	0	gene_id "GU280_gp10";
+NC_045512.2-sib.gb	SNPGenie	CDS	28284	28577	.	+	0	gene_id "Protein 9b";
+NC_045512.2-sib.gb	SNPGenie	CDS	28734	28955	.	+	0	gene_id "ORF14 protein";
+NC_045512.2-sib.gb	SNPGenie	CDS	29558	29674	.	+	0	gene_id "GU280_gp11";
